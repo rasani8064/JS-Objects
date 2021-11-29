@@ -1,6 +1,7 @@
 class Car {
   constructor(color) {
     this.color = color;
+    this.name = name;
   }
   drive() {
     console.log("driving a car");
